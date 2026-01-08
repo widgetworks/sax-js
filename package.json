@@ -24,5 +24,8 @@
   },
   "tap": {
     "allow-incomplete-coverage": true
+  },
+  "engines": {
+    "node": ">=11.0.0"
   }
 }
